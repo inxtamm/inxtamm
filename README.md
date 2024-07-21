@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @inxtamm
-- 👀 I’m interested in cybersecurity, penetration testing. I have also made some games in python.
-- 🌱 I’m currently learning cybersecurity, penetration testing in tryhackme.
+- 👀 I’m interested in gamedev. I have also made some games in python.
+- 🌱 I’m currently working on imporving my game development skills in godot and drawing in aseprite.
